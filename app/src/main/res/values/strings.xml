@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BluetoothDrone</string>
+    <string name="Forward">Forward</string>
+    <string name="Backwards">Backwards</string>
+    <string name="Right">Turn Right</string>
+    <string name="Left">Turn Left</string>
+    <string name="Disconnect">Disconnect</string>
+</resources>
